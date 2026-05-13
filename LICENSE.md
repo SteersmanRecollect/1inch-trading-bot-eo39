@@ -1,4 +1,4 @@
-# 
+# pancakeswap trading bot ultimate Bot - rug-pull-detection and impermanent-loss-protection is the best pancakeswap trading bot, featuring rug-pull-detection and
 
 
 
